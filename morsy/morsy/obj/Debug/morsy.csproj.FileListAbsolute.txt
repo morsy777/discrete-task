@@ -1,0 +1,8 @@
+C:\Users\GolD\source\repos\morsy\morsy\bin\Debug\morsy.exe.config
+C:\Users\GolD\source\repos\morsy\morsy\bin\Debug\morsy.exe
+C:\Users\GolD\source\repos\morsy\morsy\bin\Debug\morsy.pdb
+C:\Users\GolD\source\repos\morsy\morsy\obj\Debug\morsy.csproj.AssemblyReference.cache
+C:\Users\GolD\source\repos\morsy\morsy\obj\Debug\morsy.csproj.SuggestedBindingRedirects.cache
+C:\Users\GolD\source\repos\morsy\morsy\obj\Debug\morsy.csproj.CoreCompileInputs.cache
+C:\Users\GolD\source\repos\morsy\morsy\obj\Debug\morsy.exe
+C:\Users\GolD\source\repos\morsy\morsy\obj\Debug\morsy.pdb
