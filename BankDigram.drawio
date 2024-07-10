@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T07:23:27.317Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Avast/126.0.0.0" etag="8hVpH0p9FQMbrDiDaYMB" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T07:26:43.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Avast/126.0.0.0" etag="JxsuffW24wdZ9cSjBelK" version="24.2.1" type="github">
   <diagram name="Page-1" id="Sdmv3YZEce-zZ9c6VDTf">
-    <mxGraphModel dx="758" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="910" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,6 +74,15 @@
             <mxPoint x="187.52" y="270.29" as="sourcePoint" />
             <mxPoint x="188" y="204" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Px8bT3p9q_pAnuoa6N7a-30" value="The Head of arrow represent&amp;nbsp;&lt;div&gt;inheritence&amp;nbsp;&lt;/div&gt;&lt;div&gt;relationship&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="10" y="218" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Px8bT3p9q_pAnuoa6N7a-32" value="The Head of arrow represent&amp;nbsp;&lt;div&gt;Association&amp;nbsp;&lt;/div&gt;&lt;div&gt;relationship&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Px8bT3p9q_pAnuoa6N7a-33" value="The Head of arrow represent&amp;nbsp;&lt;div&gt;Aggregation&amp;nbsp;&lt;/div&gt;&lt;div&gt;relationship&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
